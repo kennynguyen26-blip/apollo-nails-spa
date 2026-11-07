@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.apollonailsspakaty.com/sitemap.xml
+Sitemap: https://www.apollonailsspa.business/sitemap.xml
