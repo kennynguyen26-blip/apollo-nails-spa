@@ -1,0 +1,6 @@
+/* Only loads when JavaScript is off: show every photo that exists, show all menu panels, hide widgets that need JS. */
+.media img { opacity: 1; }
+.tabs, .pay-switch, .carousel-controls, .read-more, .drink-filters, .lang-switch, .menu-toggle, [data-cc-open], .map-consent button { display: none !important; }
+.panel { display: block !important; margin-bottom: 48px; }
+.review-card blockquote p { -webkit-line-clamp: unset; display: block; }
+.main-nav { position: static; transform: none; visibility: visible; padding: 0; background: none; }
