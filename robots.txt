@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://SITE-URL-NEEDED.example/sitemap.xml
+Sitemap: https://www.apollonailsspakaty.com/sitemap.xml

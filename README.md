@@ -27,5 +27,5 @@ Then open http://127.0.0.1:8765/
 - **Hours:** the hours table in `index.html` (`#visit`) and `CONFIG.HOURS` at the top of `script.js` (drives "Open now").
 - **Holiday closures:** add a date to `CONFIG.SPECIAL` in `script.js`.
 - **Prices:** every price shows cash and card (card = cash × 1.02). Edit both numbers in the menu section of `index.html`, and the cash price in the JSON-LD at the top. The official menu is in PLAN.md section 1.
-- **Site URL:** replace `https://SITE-URL-NEEDED.example` in `index.html`, `robots.txt` and `sitemap.xml`.
+- **Site URL:** `https://www.apollonailsspakaty.com` is set in `index.html` (canonical, Open Graph, schema), `robots.txt` and `sitemap.xml`. Change all of them together if the domain ever changes.
 - **Spanish:** every English line has a matching `<span class="es">` next to it. Edit both.
